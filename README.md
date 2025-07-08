@@ -12,6 +12,13 @@ Visualization of Covid-19 trends by country and date.
 Interactive sales analysis dashboard built with Tableau.  
 **Tools:** Tableau, Excel
 
+## Sales Data Analysis with SQL
+
+Developed SQL queries to extract and analyze sales data using SQLite and DB Browser.
+**Tools**: SQL, SQLite, DB Browser for SQLite
+
+[SQL Queries]()
+
 
 
 
